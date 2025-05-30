@@ -9,8 +9,8 @@ BİL314-Sinyaller ve Sistemler Dersi/Final Projesi (Fourier Dönüşümü)
 4. Gerçek Zamanlı Uygulama
 5. Raporlama ve Teslim
 
-Proje kapsamında gerekli dökümantasyon hazırlanmış olup bu depoda uygulama aşaması açıklanmıştır. Ses kayıtları kişiye ve projeye özeldir, bu depoya kayıtlar eklenmemiştir. Senaryo (script) adım adım incelenmeli ve mevcut kayıt için gerekli yerler düzenlenmelidir. _SNR değerinin kontrolünü yapınız._ \\
-*Soundfile kütüphanesi ile entegre çalışmak için ses kayıtları ".WAV" uzantılı olmalıdır!*\\
+Proje kapsamında gerekli dökümantasyon hazırlanmış olup bu depoda uygulama aşaması açıklanmıştır. Ses kayıtları kişiye ve projeye özeldir, bu depoya kayıtlar eklenmemiştir. Senaryo (script) adım adım incelenmeli ve mevcut kayıt için gerekli yerler düzenlenmelidir. _SNR değerinin kontrolünü yapınız._ 
+*Soundfile kütüphanesi ile entegre çalışmak için ses kayıtları ".WAV" uzantılı olmalıdır!*
 
 # Birinci Adım: Çalışma Ortamının Hazırlanması
 ```
@@ -20,7 +20,7 @@ Proje kapsamında gerekli dökümantasyon hazırlanmış olup bu depoda uygulama
   $ conda install -c conda-forge libstdcxx-ng
 ```
 
-Zaman geçtikçe kütüphanelere güncellemeler gelmektedir, bu sebepten kütüphane uyumsuzluklarıyla alakalı hata alınabilir, kontrol edilmesi gerekmektedir.\\
+Zaman geçtikçe kütüphanelere güncellemeler gelmektedir, bu sebepten kütüphane uyumsuzluklarıyla alakalı hata alınabilir, kontrol edilmesi gerekmektedir.
 
 # İkinci Adım: Senaryonun Koşulması
 
